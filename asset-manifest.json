@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/react-marvel-api/static/css/main.a821b37d.css",
-    "main.js": "/react-marvel-api/static/js/main.d7279712.js",
+    "main.css": "/react-marvel-api/static/css/main.28c18706.css",
+    "main.js": "/react-marvel-api/static/js/main.7d4ae002.js",
     "static/media/vision.png": "/react-marvel-api/static/media/vision.067d4ae1936d64a577ce.png",
     "static/media/thor.jpeg": "/react-marvel-api/static/media/thor.533e3a5e127689ab0b1f.jpeg",
     "static/media/abyss.jpg": "/react-marvel-api/static/media/abyss.93d211d37b67a60bace9.jpg",
     "static/media/mjolnir.png": "/react-marvel-api/static/media/mjolnir.61f31e1809f12183a524.png",
+    "static/media/error.gif": "/react-marvel-api/static/media/error.42292aa12b6bc303ce99.gif",
     "index.html": "/react-marvel-api/index.html",
-    "main.a821b37d.css.map": "/react-marvel-api/static/css/main.a821b37d.css.map",
-    "main.d7279712.js.map": "/react-marvel-api/static/js/main.d7279712.js.map"
+    "main.28c18706.css.map": "/react-marvel-api/static/css/main.28c18706.css.map",
+    "main.7d4ae002.js.map": "/react-marvel-api/static/js/main.7d4ae002.js.map"
   },
   "entrypoints": [
-    "static/css/main.a821b37d.css",
-    "static/js/main.d7279712.js"
+    "static/css/main.28c18706.css",
+    "static/js/main.7d4ae002.js"
   ]
 }
